@@ -3,10 +3,10 @@
     <div class="ui inverted vertical masthead center aligned segment">
       <div class="ui text container">
         <h1 class="ui inverted header"> Aplicação Todo List com Vue.js 3</h1>
-        <h2 class="ui inverted header">Glaucia Lemos
-          <div class="sub header">Cloud Advocate em JavaScript/Node.js @ Microsoft</div>
+        <h2 class="ui inverted header">Rodrigo Fukugauti
+          <div class="sub header">Aplicação copiada para aprendizagem do processo de integração entre GitHub e Azure</div>
         </h2>
-        <h3 class="ui inverted header">Rio de Janeiro, Brasil - 2020</h3>
+        <h3 class="ui inverted header">Americana/SP, Brasil - 2020</h3>
         <a class="tiny ui youtube button" type="button" href="https://www.youtube.com/user/l32759">
           <i class="youtube icon"></i>
           YouTube
